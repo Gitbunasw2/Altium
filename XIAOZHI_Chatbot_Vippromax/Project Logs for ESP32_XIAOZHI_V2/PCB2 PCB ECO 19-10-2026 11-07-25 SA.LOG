@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=3.3 Pin=U7-1
+Removed Pin From Net: NetName=GND Pin=U7-2
+Removed Pin From Net: NetName=TFT_CS Pin=U7-3
+Removed Pin From Net: NetName=TFT_RST Pin=U7-4
+Removed Pin From Net: NetName=TFT_DC Pin=U7-5
+Removed Pin From Net: NetName=TFT_SDI Pin=U7-6
+Removed Pin From Net: NetName=TFT_SCK Pin=U7-7
+Removed Pin From Net: NetName=TFT_LED Pin=U7-8
+Removed Member From Class: ClassName=Sheet3 Member=U7
+Added Member To Class: ClassName=Sheet3 Member=Component U1 TFT28
+Added Room: Name=Sheet3

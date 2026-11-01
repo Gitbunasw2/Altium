@@ -1,0 +1,283 @@
+Added Component: Designator=D?(LED 5MM - GREEN)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(18650-PC4)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BK-18650-PC4/Memory+Protection+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "MPD (Memory Protection Devices)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BK-18650-PC4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BK-18650-PC4/Memory+Protection+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW/3/SPDT/SS12D10)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW?(Button2Psilicon)
+Added Component: Designator=SW?(Button2Psilicon)
+Added Component: Designator=SW?(Button2Psilicon)
+Added Component: Designator=SW?(Button2Psilicon)
+Added Component: Designator=SW?(Button2Psilicon)
+Added Component: Designator=SW?(Button2Psilicon)
+Added Component: Designator=SW?(Button2Psilicon)
+Added Component: Designator=SW?(Button2Psilicon)
+Added Component: Designator=SW?(Button2Psilicon)
+Added Component: Designator=SW?(Button2Psilicon)
+Added Component: Designator=U1(TFT - duplicate)
+Added Component: Designator=U2(MAX98357)
+Added Component: Designator=U3(TP4056)
+Added Component: Designator=U?(SDCARD_MODULE)
+Added Component: Designator=U?(ESP32_S3_MODULE)
+Added Component: Designator=U?(IMP441)
+Added Pin To Net: NetName=3.3 Pin=R?-2
+Added Pin To Net: NetName=3.3 Pin=R?-2
+Added Pin To Net: NetName=3.3 Pin=R?-2
+Added Pin To Net: NetName=3.3 Pin=R?-2
+Added Pin To Net: NetName=3.3 Pin=R?-2
+Added Pin To Net: NetName=3.3 Pin=R?-2
+Added Pin To Net: NetName=3.3 Pin=R?-2
+Added Pin To Net: NetName=3.3 Pin=R?-2
+Added Pin To Net: NetName=3.3 Pin=R?-2
+Added Pin To Net: NetName=3.3 Pin=R?-2
+Added Pin To Net: NetName=3.3 Pin=R?-2
+Added Pin To Net: NetName=3.3 Pin=SW1-2
+Added Pin To Net: NetName=3.3 Pin=U1-1
+Added Pin To Net: NetName=3.3 Pin=U2-4
+Added Pin To Net: NetName=3.3 Pin=U2-6
+Added Pin To Net: NetName=3.3 Pin=U?-1
+Added Pin To Net: NetName=3.3 Pin=U?-1
+Added Pin To Net: NetName=3.3 Pin=U?-20
+Added Pin To Net: NetName=3.3 Pin=U?-21
+Added Net: Name=3.3
+Added Pin To Net: NetName=B_A Pin=R?-1
+Added Pin To Net: NetName=B_A Pin=SW?-1
+Added Pin To Net: NetName=B_A Pin=U?-30
+Added Net: Name=B_A
+Added Pin To Net: NetName=B_B Pin=R?-1
+Added Pin To Net: NetName=B_B Pin=SW?-1
+Added Pin To Net: NetName=B_B Pin=U?-7
+Added Net: Name=B_B
+Added Pin To Net: NetName=B_DOWN Pin=R?-1
+Added Pin To Net: NetName=B_DOWN Pin=SW?-1
+Added Pin To Net: NetName=B_DOWN Pin=U?-26
+Added Net: Name=B_DOWN
+Added Pin To Net: NetName=B_LEFT Pin=R?-1
+Added Pin To Net: NetName=B_LEFT Pin=SW?-1
+Added Pin To Net: NetName=B_LEFT Pin=U?-27
+Added Net: Name=B_LEFT
+Added Pin To Net: NetName=B_MENU Pin=R?-1
+Added Pin To Net: NetName=B_MENU Pin=SW?-1
+Added Pin To Net: NetName=B_MENU Pin=U?-3
+Added Net: Name=B_MENU
+Added Pin To Net: NetName=B_OPTION Pin=R?-1
+Added Pin To Net: NetName=B_OPTION Pin=SW?-1
+Added Pin To Net: NetName=B_OPTION Pin=U?-4
+Added Net: Name=B_OPTION
+Added Pin To Net: NetName=B_RIGHT Pin=R?-1
+Added Pin To Net: NetName=B_RIGHT Pin=SW?-1
+Added Pin To Net: NetName=B_RIGHT Pin=U?-2
+Added Net: Name=B_RIGHT
+Added Pin To Net: NetName=B_SELECT Pin=R?-1
+Added Pin To Net: NetName=B_SELECT Pin=SW?-1
+Added Pin To Net: NetName=B_SELECT Pin=U?-5
+Added Net: Name=B_SELECT
+Added Pin To Net: NetName=B_START Pin=R?-1
+Added Pin To Net: NetName=B_START Pin=SW?-1
+Added Pin To Net: NetName=B_START Pin=U?-6
+Added Net: Name=B_START
+Added Pin To Net: NetName=B_UP Pin=R?-1
+Added Pin To Net: NetName=B_UP Pin=SW?-1
+Added Pin To Net: NetName=B_UP Pin=U?-28
+Added Net: Name=B_UP
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U?-0
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-22
+Added Pin To Net: NetName=GND Pin=U?-23
+Added Pin To Net: NetName=GND Pin=U?-43
+Added Net: Name=GND
+Added Pin To Net: NetName=MAX_BCLK Pin=U2-1
+Added Pin To Net: NetName=MAX_BCLK Pin=U?-14
+Added Net: Name=MAX_BCLK
+Added Pin To Net: NetName=MAX_DIN Pin=U2-2
+Added Pin To Net: NetName=MAX_DIN Pin=U?-15
+Added Net: Name=MAX_DIN
+Added Pin To Net: NetName=MAX_LRC Pin=U2-0
+Added Pin To Net: NetName=MAX_LRC Pin=U?-13
+Added Net: Name=MAX_LRC
+Added Pin To Net: NetName=MIC_SCK Pin=U?-3
+Added Pin To Net: NetName=MIC_SCK Pin=U?-17
+Added Net: Name=MIC_SCK
+Added Pin To Net: NetName=MIC_SD Pin=U?-0
+Added Pin To Net: NetName=MIC_SD Pin=U?-16
+Added Net: Name=MIC_SD
+Added Pin To Net: NetName=MIC_WS Pin=U?-4
+Added Pin To Net: NetName=MIC_WS Pin=U?-18
+Added Net: Name=MIC_WS
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R?-1
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetSW1_3 Pin=SW1-3
+Added Pin To Net: NetName=NetSW1_3 Pin=U3-5
+Added Net: Name=NetSW1_3
+Added Pin To Net: NetName=POWER_STS Pin=R?-1
+Added Pin To Net: NetName=POWER_STS Pin=R?-2
+Added Pin To Net: NetName=POWER_STS Pin=U?-10
+Added Net: Name=POWER_STS
+Added Pin To Net: NetName=SD_CLK Pin=U?-4
+Added Pin To Net: NetName=SD_CLK Pin=U?-34
+Added Net: Name=SD_CLK
+Added Pin To Net: NetName=SD_CS Pin=U?-2
+Added Pin To Net: NetName=SD_CS Pin=U?-35
+Added Net: Name=SD_CS
+Added Pin To Net: NetName=SD_MISO Pin=U?-5
+Added Pin To Net: NetName=SD_MISO Pin=U?-36
+Added Net: Name=SD_MISO
+Added Pin To Net: NetName=SD_MOSI Pin=U?-3
+Added Pin To Net: NetName=SD_MOSI Pin=U?-12
+Added Net: Name=SD_MOSI
+Added Pin To Net: NetName=STS_LED Pin=R?-2
+Added Pin To Net: NetName=STS_LED Pin=U?-9
+Added Net: Name=STS_LED
+Added Pin To Net: NetName=TFT_CS Pin=U1-3
+Added Pin To Net: NetName=TFT_CS Pin=U?-39
+Added Net: Name=TFT_CS
+Added Pin To Net: NetName=TFT_DC Pin=U1-5
+Added Pin To Net: NetName=TFT_DC Pin=U?-42
+Added Net: Name=TFT_DC
+Added Pin To Net: NetName=TFT_LED Pin=U1-8
+Added Pin To Net: NetName=TFT_LED Pin=U?-40
+Added Net: Name=TFT_LED
+Added Pin To Net: NetName=TFT_RST Pin=U1-4
+Added Pin To Net: NetName=TFT_RST Pin=U?-41
+Added Net: Name=TFT_RST
+Added Pin To Net: NetName=TFT_SCK Pin=U1-7
+Added Pin To Net: NetName=TFT_SCK Pin=U?-37
+Added Net: Name=TFT_SCK
+Added Pin To Net: NetName=TFT_SDI Pin=U1-6
+Added Pin To Net: NetName=TFT_SDI Pin=U?-38
+Added Net: Name=TFT_SDI
+Added Pin To Net: NetName=VIN+ Pin=J?-+1
+Added Pin To Net: NetName=VIN+ Pin=J?-+2
+Added Pin To Net: NetName=VIN+ Pin=U3-4
+Added Net: Name=VIN+
+Added Pin To Net: NetName=VIN- Pin=J?--1
+Added Pin To Net: NetName=VIN- Pin=J?--2
+Added Pin To Net: NetName=VIN- Pin=U3-3
+Added Net: Name=VIN-
+Added Class: Name=Sheet3
+Added Room: Name=Sheet3
